@@ -1,3 +1,23 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
 .idea/
-.DS_Store
+*.iml
+*.iws
+**/out
+**/overlays/
 out/
+
+# Mac
+.DS_Store
+
+# Maven
+**/log/
+**/target
+**/*.log
+**/tmp
+**/.tmp
+**/bin/**
